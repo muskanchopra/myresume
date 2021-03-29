@@ -6,7 +6,7 @@ div
 {
     position: fixed;
     z-index: 1;
-    height:40px;
+    height:90px;
     width: 98%;
     background-color: #668284;
     margin-bottom: 10px
@@ -16,7 +16,7 @@ div
     float:left;
 	margin-left: 20px;
 	padding-bottom: 10px;
-	font-size: 16px;
+	font-size: 30px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
 }
@@ -24,8 +24,8 @@ div
 #email{
     float:right;
     margin-right: 20px;
-	padding-bottom: 10px;
-	font-size: 16px;
+	 padding-bottom: 10px;
+	font-size: 15px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
 }
@@ -55,27 +55,28 @@ a:hover {
     background-color: #E3EDD8;
     }
 
-/*.left
+.left
 {
     float: left;
     margin-top: 50px;
-    /*margin-right: -90px;
+    margin-right: -90px;
     height: relative;
     width: 10%;
     background-color: #4160E8;
-    }*/
+    }
     
 #footer
 {
     height:40px;
     clear:both;
     position: relative;
-    background-color: #C1E3E1;
+    background-color: #668284;
     }
     
 h3
 {
     text-decoration: underline;
+    font-size: xx-large;
     }
 
 #job-responsibilities
@@ -117,4 +118,5 @@ td
 #heading
 {
     font-weight:bold;
+    font-size: x-large;
     }
